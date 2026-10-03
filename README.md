@@ -1,3 +1,20 @@
+<div align="center">
+
+<img src="assets/logo.png" width="500">
+
+# Netflix SQL Data Analysis
+
+### Exploring Netflix Movies & TV Shows using PostgreSQL
+
+</div>
+
+---
+
+## 📌 Project Overview
+
+This project analyzes Netflix movies and TV shows using SQL and PostgreSQL.
+
+The analysis answers 15 business questions related to content types, ratings, countries, genres, directors, actors, release years, and content categorization.
 ## Dataset
 
 The dataset contains information about Netflix movies and TV shows, including:
